@@ -1,7 +1,11 @@
-<img src="https://github.com/android-generic/artwork/raw/master/brand/Android-Generic_Logo__2_transparent.png">
-# Android-Generic Project Readme
 
-## What Is This?
+# AGP/GNUWeeb README
+
+## What Is GNU/Weeb ?
+
+GNU/Weeb is communnity which working for building through open source technology. This repo is backup and sources for build Android system for x86 computers [which forked from this archived repo](https://github.com/android-generic/vendor_ag-archive).
+
+## What Is Android-Generic ?
 
 Android-Generic Project is a collection of scripts, manifests & patches that allow for rapid prototyping of Android projects based off AOSP to produce generic images for Linux PC hardware as well as others.
 For a more in-depth description of the goals and progressions leading up to this project, please read [This Blog Post](https://blog.blissroms.org/2020/06/26/lets-try-and-change-the-game.html)
@@ -10,37 +14,8 @@ The first version of this toolset did indeed do what we intended it to do, but w
 
 The menu system uses [easybashgui](https://sites.google.com/site/easybashgui/) for it's menu system, so it will automatically detect and use: yad, gtkdialog, kdialog, zenity, Xdialog, (c)dialog, whiptail or bash builtins to display the options. That means this system should work on any server or SSH session.
 
-### Development Chats:
 
-Telegram:
-[PC/x86/x86_64/waydroid](https://t.me/androidgenericpc)
-
-
-### Resources:
-
-AG Artwork:  
-[Android-Generic Artwork](https://github.com/android-generic/artwork)
-
-AG Documentation:
-[Android-Generic Project Documentation](https://android-generic-project.gitbook.io/documentation/)
-
-Source & Troubleshooting Documentation:  
-[Android-x86 Documentation](https://www.android-x86.org/documentation.html)
-
-[Bliss OS Docs](https://docs.blissos.org)
-
-
-
-- **TOC**
-
-## Documentation:
-Our documentation has moved to it's own repo:
-[AG Documentation Repo](https://github.com/android-generic/documentation)
-
-[Android-Generic Project Documentation Site](https://android-generic-project.gitbook.io/documentation/)
-
-
-# Credits
+# Credits (From Android-Generic Project)
 
 We'd like to say thanks to all these great individuals first:
 @phhusson @cwhuang @maurossi @goffioul @me176c-dev @bosconovic @farmerbb @aclegg2011 @eternityson and many others
